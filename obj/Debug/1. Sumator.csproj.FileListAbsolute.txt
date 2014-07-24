@@ -1,0 +1,6 @@
+C:\Users\Gosho\Downloads\ASP.NET-Web-Forms-Intro-Demos2222\Sumator\bin\Sumator.dll.config
+C:\Users\Gosho\Downloads\ASP.NET-Web-Forms-Intro-Demos2222\Sumator\bin\Sumator.dll
+C:\Users\Gosho\Downloads\ASP.NET-Web-Forms-Intro-Demos2222\Sumator\bin\Sumator.pdb
+C:\Users\Gosho\Downloads\ASP.NET-Web-Forms-Intro-Demos2222\Sumator\obj\Debug\Sumator.dll
+C:\Users\Gosho\Downloads\ASP.NET-Web-Forms-Intro-Demos2222\Sumator\obj\Debug\Sumator.pdb
+C:\Users\Gosho\Downloads\ASP.NET-Web-Forms-Intro-Demos2222\Sumator\obj\Debug\1. Sumator.csprojResolveAssemblyReference.cache
